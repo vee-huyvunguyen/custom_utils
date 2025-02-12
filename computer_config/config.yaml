@@ -1,0 +1,28 @@
+apps:
+  GUI:
+    - Obsidian 
+    - Discord  
+    - Tor Browser
+    - VLC Media Player
+    - Zoom
+    - WPS Office
+    - Slack
+    - Postman
+    - TeamViewer
+    - Teams
+    - OBS Studio
+    - DBeaver
+    - Firefox
+    - Calibre
+    - Notion
+    - Brave Browser
+  CLI:
+    - terraform
+    - uv
+    - sdkman
+    - maven
+    - awscli
+    - google-cloud-sdk
+    - docker
+    - git
+    - pnpm
