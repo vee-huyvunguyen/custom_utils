@@ -23,3 +23,4 @@ winget install -e --id Mozilla.Firefox
 winget install -e --id calibre.calibre
 winget install -e --id Notion.Notion
 winget install -e --id Brave.Brave
+winget install -e --id OpenVPNTechnologies.OpenVPNConnect

@@ -16,6 +16,7 @@ apps:
     - Calibre
     - Notion
     - Brave Browser
+    - OpenVPN Connect
   CLI:
     - terraform
     - uv
